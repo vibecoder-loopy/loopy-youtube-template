@@ -1,0 +1,10 @@
+node_modules/
+dist/
+out/
+.DS_Store
+*.mp4
+*.tsbuildinfo
+
+# output 폴더는 유지하되 내용물은 제외
+output/*
+!output/.gitkeep
